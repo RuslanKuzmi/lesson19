@@ -1,0 +1,34 @@
+.title {
+   font-weight: 700;
+   font-size: 40px;
+   line-height: 1.12;
+   text-transform: capitalize;
+   color: #212b36;
+}
+.title:hover {
+}
+/* .none{
+	display: none;
+}     */
+/* normal */
+.title2 {
+   font-weight: 600;
+   font-size: 28px;
+   line-height: 1.25;
+   color: #212b36;
+}
+/* obset */
+.title3 {
+   font-weight: 700;
+   font-size: 40px;
+   line-height: 1.12;
+   text-transform: capitalize;
+   color: #212b36;
+}
+/* small */
+.title4 {
+   font-weight: 600;
+   font-size: 20px;
+   line-height: 1.3;
+   color: #212b36;
+}
